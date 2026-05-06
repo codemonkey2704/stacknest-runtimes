@@ -27,9 +27,9 @@
     },
     {
       "version": "8.4",
-      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-8.4/php-8.4-arm64.tar.gz",
-      "sha256": "FILL_IN_AFTER_BUILD",
-      "size": 0
+      "url": "https://github.com/codemonkey2704/stacknest-runtimes/releases/download/php-8.4/php-8.4-arm64.tar.gz",
+      "sha256": "541e857600eb7a0d7f5d31c9fc01b582e83b61a01256833e3077e239a77d7051",
+      "size": 45109184
     }
   ]
 }
