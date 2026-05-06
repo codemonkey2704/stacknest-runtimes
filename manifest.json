@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "phpVersions": [
+    {
+      "version": "7.4",
+      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-7.4/php-7.4-arm64.tar.gz",
+      "sha256": "FILL_IN_AFTER_BUILD",
+      "size": 0
+    },
+    {
+      "version": "8.0",
+      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-8.0/php-8.0-arm64.tar.gz",
+      "sha256": "FILL_IN_AFTER_BUILD",
+      "size": 0
+    },
+    {
+      "version": "8.1",
+      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-8.1/php-8.1-arm64.tar.gz",
+      "sha256": "FILL_IN_AFTER_BUILD",
+      "size": 0
+    },
+    {
+      "version": "8.2",
+      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-8.2/php-8.2-arm64.tar.gz",
+      "sha256": "FILL_IN_AFTER_BUILD",
+      "size": 0
+    },
+    {
+      "version": "8.4",
+      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-8.4/php-8.4-arm64.tar.gz",
+      "sha256": "FILL_IN_AFTER_BUILD",
+      "size": 0
+    }
+  ]
+}
