@@ -3,9 +3,9 @@
   "phpVersions": [
     {
       "version": "7.4",
-      "url": "https://github.com/YOUR_USERNAME/stacknest-runtimes/releases/download/php-7.4/php-7.4-arm64.tar.gz",
-      "sha256": "FILL_IN_AFTER_BUILD",
-      "size": 0
+      "url": "https://github.com/codemonkey2704/stacknest-runtimes/releases/download/php-7.4/php-7.4-arm64.tar.gz",
+      "sha256": "f2153a762d127e9bd80eb861ba7223ca33c7a6ba368cb9c8fc8cb51584c50725",
+      "size": 30926278
     },
     {
       "version": "8.0",
